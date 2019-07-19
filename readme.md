@@ -55,13 +55,12 @@ Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exempl
 ---
 
 ### Resolução
-<code> #!/usr/bin/env python </code>  
-<code>  # -*- coding: utf-8 -*- </code>  
-<code>
-a = float(input())  
-r = (a**2) * 3.14159  
-print('A={0:.4f}'.format(r))  
-</code>
+<code>#!/usr/bin/env python </code>  
+<code># -*- coding: utf-8 -*- </code>  
+<code>a = float(input())</code>  
+<code>r = (a**2) * 3.14159</code>  
+<code>print('A={0:.4f}'.format(r))</code>  
+
 
 Tendo em vista o padrão de nomenclatura que deve ser usado para nomear os arquivos, iremos testar os scripts da seguintes maneira:
 
