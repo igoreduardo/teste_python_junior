@@ -4,14 +4,13 @@ Esse é um teste para avaliar conceitos básicos de programação.
 
 Realize um fork desse repositório, resolva os três testes abaixo e depois nos encaminhe o link do respositório com as respostas.
 
-Os exercícios devem ser resolvidos utilizando-se python 3.7
-
-Pedimos que o nome dos scripts obedeça ao seguinte padrão: teste_{id_problema}.py
-
 https://www.urionlinejudge.com.br/judge/pt/problems/view/1015  
 https://www.urionlinejudge.com.br/judge/pt/problems/view/1020  
 https://www.urionlinejudge.com.br/judge/pt/problems/view/1016  
 
+Os exercícios devem ser resolvidos utilizando-se python 3.7
+
+Pedimos que o nome dos scripts obedeça ao seguinte padrão: teste_{id_problema}.py
 
 É possível passar uma entrada para um programa usando o sinal de '<' (menor que). Então o seu script deve ser capaz de ler linhas de um arquivo de entrada utilizando o comando input.
 
