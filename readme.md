@@ -8,9 +8,9 @@ Os exercícios devem ser resolvidos utilizando-se python 3.7
 
 Pedimos que o nome dos scripts obedeça ao seguinte padrão: teste_{id_problema}.py
 
-https://www.urionlinejudge.com.br/judge/pt/problems/view/1015
-https://www.urionlinejudge.com.br/judge/pt/problems/view/1020
-https://www.urionlinejudge.com.br/judge/pt/problems/view/1016
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1015  
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1020  
+https://www.urionlinejudge.com.br/judge/pt/problems/view/1016  
 
 
 É possível passar uma entrada para um programa usando o sinal de '<' (menor que). Então o seu script deve ser capaz de ler linhas de um arquivo de entrada utilizando o comando input.
@@ -55,12 +55,12 @@ Apresentar a mensagem "A=" seguido pelo valor da variável area, conforme exempl
 ---
 
 ### Resolução
-<code> #!/usr/bin/env python </code>
-<code>  # -*- coding: utf-8 -*- </code>
+<code> #!/usr/bin/env python </code>  
+<code>  # -*- coding: utf-8 -*- </code>  
 <code>
-a = float(input())
-r = (a**2) * 3.14159
-print('A={0:.4f}'.format(r))
+a = float(input())  
+r = (a**2) * 3.14159  
+print('A={0:.4f}'.format(r))  
 </code>
 
 Tendo em vista o padrão de nomenclatura que deve ser usado para nomear os arquivos, iremos testar os scripts da seguintes maneira:
